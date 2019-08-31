@@ -1,0 +1,16 @@
+India/New Delhi
+China/Beijing
+France/Paris
+Argentina/Buenow Aires
+Egypt/Cairo
+Canada/Ottawa
+Brazil/Brasilia
+Mexico/Mexico City
+United Kingdom/London
+Russia/Moscow
+Pakistan/Trash
+Sri Lanka/Colombo
+Bhutan/Thimpu
+Bangladesh/Dhaka
+Switzerland/Geneva
+Belgium/Brussels
